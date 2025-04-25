@@ -1,0 +1,7 @@
+POST http://localhost:3000/posts
+Content-Type: application/json
+
+{
+    "title": "Raeveen",
+    "body": "Bye man!"
+}

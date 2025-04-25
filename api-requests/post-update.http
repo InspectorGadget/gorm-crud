@@ -1,0 +1,7 @@
+PUT http://localhost:3000/posts/1
+Content-Type: application/json
+
+{
+    "title": "Raeveen!",
+    "body": "Bye man!!!!!!!"
+}
